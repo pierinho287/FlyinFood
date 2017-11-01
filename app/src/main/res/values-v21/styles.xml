@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- PARA MATERIAL -->
+
+
+        <!-- RESTO DE STYLE -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="LoginTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- PARA MATERIAL -->
+        <item name="android:navigationBarColor">@color/navigationBarColor</item>
+
+
+        <!-- RESTO DE STYLE -->
+        <item name="android:windowBackground">@drawable/wall</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+
+    </style>
+</resources>

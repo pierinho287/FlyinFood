@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_restaurant"
+            android:title="@string/Restaurant" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/HechoCasa" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_favorite"
+            android:title="@string/Favoritos" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_offer"
+            android:title="@string/Ofertas" />
+        <item
+            android:id="@+id/Canjear"
+            android:icon="@drawable/ic_menu_canjear"
+            android:title="@string/Canjear" />
+    </group>
+
+    <item android:title="@string/Comunicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_cuenta"
+                android:title="@string/MiCuenta" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_acerca"
+                android:title="@string/AcercaDe" />
+        </menu>
+    </item>
+
+</menu>

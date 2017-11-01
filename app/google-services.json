@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "547531820513",
+    "firebase_url": "https://flyinfood-f6146.firebaseio.com",
+    "project_id": "flyinfood-f6146",
+    "storage_bucket": "flyinfood-f6146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547531820513:android:6edf4537850170d3",
+        "android_client_info": {
+          "package_name": "com.example.juanpiero.cussini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547531820513-q7cpp6eme86rovosodk812rt9sb5tj4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.juanpiero.cussini",
+            "certificate_hash": "2af4f631366708b1f61dc96b2b111e02500ca454"
+          }
+        },
+        {
+          "client_id": "547531820513-qhb7a7r28pu9oskd8m8os8v6gs4bhfhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVr1DKafAGCVC16bcxYM8n0RItfQqHBnw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547531820513-qhb7a7r28pu9oskd8m8os8v6gs4bhfhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
